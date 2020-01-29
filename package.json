@@ -1,0 +1,29 @@
+{
+  "name": "fix-protocol",
+  "version": "0.0.1",
+  "description": "Simple FIX client",
+  "author": "jury",
+  "main": "./lib/protocol.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "http": "^0.0.0",
+    "moment": "^2.9.0",
+    "websocket": "^1.0.31"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "banzai!"
+  },
+  "keywords": [
+    "fix",
+    "js",
+    "fixprotocol",
+    "vue",
+    "bootstrap4",
+    "lmax"
+  ],
+  "license": "ISC",
+  "devDependencies": {}
+}
