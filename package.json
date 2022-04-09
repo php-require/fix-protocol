@@ -7,7 +7,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "http": "^0.0.0",
-    "moment": "^2.9.0",
+    "moment": "^2.29.2",
     "websocket": "^1.0.31"
   },
   "directories": {
